@@ -22,6 +22,7 @@
 		A01DF8F51CC3208D00F8C347 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A01DF8F81CC3208D00F8C347 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A01DF8FA1CC3208D00F8C347 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A01DF9001CC3276400F8C347 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		A01DF8ED1CC3208D00F8C347 /* retro-calculator */ = {
 			isa = PBXGroup;
 			children = (
+				A01DF9001CC3276400F8C347 /* Minecraft.ttf */,
 				A01DF8EE1CC3208D00F8C347 /* AppDelegate.swift */,
 				A01DF8F01CC3208D00F8C347 /* ViewController.swift */,
 				A01DF8F21CC3208D00F8C347 /* Main.storyboard */,
